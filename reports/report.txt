@@ -1,0 +1,7 @@
+STUDENT PERFORMANCE REPORT
+=========================
+
+Total Students: 10
+Average Percentage: 77.83
+Topper: Riya (97.25%)
+Best Subject: Computer
